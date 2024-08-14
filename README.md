@@ -1,2 +1,2 @@
-# Controlling-Layer-Wise-Learning-in-Deep-Networks
+# Controlling Layer-Wise Learning in Deep Networks
 Final Project A
